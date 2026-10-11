@@ -1,0 +1,1 @@
+{"features": ["dur", "total_pkts", "total_bytes", "mean_pkt_size", "rate"], "dropped": ["syn_cnt", "fin_cnt", "rst_cnt", "ack_cnt"], "has_time": {"ciciot2023": false, "ton_iot": false, "unsw_nb15": false}}

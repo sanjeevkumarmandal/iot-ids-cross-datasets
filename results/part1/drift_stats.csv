@@ -1,0 +1,4 @@
+target,domain_auc,mmd,mean_psi
+ciciot2023,0.9459,0.4402,3.1997
+ton_iot,0.8595,0.0529,1.3253
+unsw_nb15,0.9192,0.141,3.1354

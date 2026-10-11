@@ -1,0 +1,11 @@
+,ciciot2023,ton_iot,unsw_nb15
+dur,1.0,1.0,1.0
+proto,1.0,1.0,1.0
+total_pkts,1.0,1.0,1.0
+total_bytes,1.0,1.0,1.0
+mean_pkt_size,1.0,1.0,1.0
+rate,1.0,1.0,1.0
+syn_cnt,1.0,0.0,0.0
+fin_cnt,1.0,0.0,0.0
+rst_cnt,1.0,0.0,0.0
+ack_cnt,1.0,0.0,0.0
